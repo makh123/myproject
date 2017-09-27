@@ -10,7 +10,7 @@
             width: 500px;
             border="2px";
              align="center";
-             height:700px;
+             height:500px;
               
         }
         .auto-style2 {
